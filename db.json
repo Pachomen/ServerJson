@@ -1,0 +1,63 @@
+{
+  "clients" : [{
+  "id": 1,
+  "first_name": "Karl",
+  "last_name": "Somerled",
+  "email": "ksomerled0@nsw.gov.au",
+  "city": "Tadabliro"
+}, {
+  "id": 2,
+  "first_name": "Marcie",
+  "last_name": "Colliber",
+  "email": "mcolliber1@geocities.jp",
+  "city": "Paris La Défense"
+}, {
+  "id": 3,
+  "first_name": "Rahal",
+  "last_name": "Iffland",
+  "email": "riffland2@google.ca",
+  "city": "Saint-Flour"
+}, {
+  "id": 4,
+  "first_name": "Sonnie",
+  "last_name": "Rosenbush",
+  "email": "srosenbush3@google.it",
+  "city": "Wenci"
+}, {
+  "id": 5,
+  "first_name": "Aimil",
+  "last_name": "Giorgi",
+  "email": "agiorgi4@nih.gov",
+  "city": "‘Arīshah"
+}, {
+  "id": 6,
+  "first_name": "Tobe",
+  "last_name": "Terbeek",
+  "email": "tterbeek5@parallels.com",
+  "city": "Haixing"
+}, {
+  "id": 7,
+  "first_name": "Yard",
+  "last_name": "Makepeace",
+  "email": "ymakepeace6@bbb.org",
+  "city": "San Rafael Arriba"
+}, {
+  "id": 8,
+  "first_name": "Margie",
+  "last_name": "Balmer",
+  "email": "mbalmer7@ezinearticles.com",
+  "city": "Pushkino"
+}, {
+  "id": 9,
+  "first_name": "Gwenore",
+  "last_name": "Degoey",
+  "email": "gdegoey8@mapy.cz",
+  "city": "Bačka Palanka"
+}, {
+  "id": 10,
+  "first_name": "Rochette",
+  "last_name": "Moorhead",
+  "email": "rmoorhead9@xing.com",
+  "city": "Tamahú"
+}]
+}
